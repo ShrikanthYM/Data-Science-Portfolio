@@ -6,12 +6,12 @@ Tools
 Python: NumPy, Pandas, Seaborn, Matplotlib
 Machine Learning: scikit-learn, TensorFlow, keras
 
-## Contents
-# Machine Learning
+# Contents
+## Machine Learning
 
 
-# Data Analysis and Visualization
+## Data Analysis and Visualization
 
-# Projects
+## Projects
 
 Want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on: - LinkedIn - Twitter
